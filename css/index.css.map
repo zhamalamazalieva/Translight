@@ -1,8 +1,12 @@
 {
     "version": 3,
-    "mappings": "",
+    "mappings": "AIAA,AAAA,OAAO,CAAA;EACH,gBAAgB,EDDR,OAAO;ECEf,WAAW,EAAE,GAAG;EAChB,OAAO,EAAE,MAAM;CAClB",
     "sources": [
-        "../scss/index.scss"
+        "../scss/index.scss",
+        "../scss/_reset.scss",
+        "../scss/_columns.scss",
+        "../scss/_base.scss",
+        "../scss/components/_header.scss"
     ],
     "names": [],
     "file": "index.css"
